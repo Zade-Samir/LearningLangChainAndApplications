@@ -5,3 +5,4 @@ pypdf ## understanding, showing and loading the pdfs
 beautifulsoup4 ## for beautifully loading and showing the pdfs -> for pdfs
 arxiv ## loading the pdfs from arxiv website
 pymupdf ## for arxiv pdf loading
+langchain-text-splitters ##for text splitting
