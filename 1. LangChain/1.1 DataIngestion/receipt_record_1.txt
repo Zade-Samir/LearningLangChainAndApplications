@@ -1,0 +1,20 @@
+
+-------------------------------------------
+          HEALTHCARE PORTAL RECEIPT
+-------------------------------------------
+Date: 04/05/2026, 19:28:46
+Patient ID: 1
+Doctor ID: 2
+Record ID: 1
+Appointment ID: 1
+-------------------------------------------
+Service: Consultation & Medical Record
+Diagnosis: headache
+-------------------------------------------
+Amount Paid: ₹500
+Status: PAID
+Transaction ID: N/A
+-------------------------------------------
+        Thank you for choosing Medicare!
+-------------------------------------------
+    
