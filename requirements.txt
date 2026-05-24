@@ -1,5 +1,7 @@
 langchain
-python-dotenv
+python-dotenv ##loading constant from .env
 langchain_community
-pypdf
-beautifulsoup4
+pypdf ## understanding, showing and loading the pdfs
+beautifulsoup4 ## for beautifully loading and showing the pdfs -> for pdfs
+arxiv ## loading the pdfs from arxiv website
+pymupdf ## for arxiv pdf loading
